@@ -23,10 +23,10 @@
 - https://learning.oreilly.com/videos/distributed-systems-in/9781491924914
 - https://learning.oreilly.com/videos/the-distributed-systems/9781491968383
 - https://learning.oreilly.com/videos/basic-relational-database/9781838557201
-- https://www.youtube.com/watch?v=h8IWmmxIyS0
+- [Quick intro to RDBMS](https://www.youtube.com/watch?v=h8IWmmxIyS0)
 - https://intellipaat.com/blog/tutorial/sql-tutorial/rdbms/
 - https://learning.oreilly.com/videos/database-fundamentals-livelessons/9780136617105
-- https://www.youtube.com/watch?v=9Pzj7Aj25lw&t=1421s
+- [Learn SQL in 1 Hour - SQL Basics for Beginners](https://www.youtube.com/watch?v=9Pzj7Aj25lw&t=1421s)
 - [Learning SQL](https://learning.oreilly.com/videos/learning-sql/9781771372237)
 
 
