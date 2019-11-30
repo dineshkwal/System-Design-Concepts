@@ -27,5 +27,6 @@
 - https://intellipaat.com/blog/tutorial/sql-tutorial/rdbms/
 - https://learning.oreilly.com/videos/database-fundamentals-livelessons/9780136617105
 - https://www.youtube.com/watch?v=9Pzj7Aj25lw&t=1421s
+- [Learning SQL](https://learning.oreilly.com/videos/learning-sql/9781771372237)
 
 
