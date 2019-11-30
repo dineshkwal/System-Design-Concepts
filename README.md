@@ -12,5 +12,20 @@
 -----
 
 # Examples:
-- [Design chess game](https://www.geeksforgeeks.org/design-a-chess-game/)
 - [Design whatsapp/chat application](https://youtu.be/L7LtmfFYjc4)
+
+# Object oriented designs:
+- [Design chess game](https://www.geeksforgeeks.org/design-a-chess-game/)
+
+
+# Unsorted list:
+- [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+- https://learning.oreilly.com/videos/distributed-systems-in/9781491924914
+- https://learning.oreilly.com/videos/the-distributed-systems/9781491968383
+- https://learning.oreilly.com/videos/basic-relational-database/9781838557201
+- https://www.youtube.com/watch?v=h8IWmmxIyS0
+- https://intellipaat.com/blog/tutorial/sql-tutorial/rdbms/
+- https://learning.oreilly.com/videos/database-fundamentals-livelessons/9780136617105
+- https://www.youtube.com/watch?v=9Pzj7Aj25lw&t=1421s
+
+
