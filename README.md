@@ -1,5 +1,5 @@
 # System Design Concepts
-
+- [A great lecture on scalability](https://www.youtube.com/watch?v=-W9F__D3oY4)
 - [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 - [API Gateway](https://youtu.be/vHQqQBYJtLI)
 - [Load Balancer](https://youtu.be/9wlrcxBaE2w)
