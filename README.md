@@ -4,7 +4,6 @@
 - [API Gateway](https://youtu.be/vHQqQBYJtLI)
 - [Load Balancer](https://youtu.be/9wlrcxBaE2w)
 - [Web application architecture](https://www.youtube.com/watch?v=d1Gd-MGaleE&list=PLUU3EzfPr915ebZONvUVHKm8Bls6D7EgA)
-- [What is NoSQL database](https://youtu.be/AWEUeucIiWA)
 - [A friendly introduction to NoSQL with Apache Cassandra](https://youtu.be/xQnIN9bW0og)
 - [Learn SQL in 1 Hour - SQL Basics for Beginners](https://youtu.be/9Pzj7Aj25lw)
 - [Quick intro to RDBMS](https://www.youtube.com/watch?v=h8IWmmxIyS0)
@@ -26,6 +25,7 @@ Unsorted list:
 
 - https://intellipaat.com/blog/tutorial/sql-tutorial/rdbms/
 - https://learning.oreilly.com/videos/database-fundamentals-livelessons/9780136617105
+- [What is NoSQL database](https://youtu.be/AWEUeucIiWA)
 
 
 
