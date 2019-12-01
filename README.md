@@ -4,10 +4,10 @@
 - [API Gateway](https://youtu.be/vHQqQBYJtLI)
 - [Load Balancer](https://youtu.be/9wlrcxBaE2w)
 - [Web application architecture](https://www.youtube.com/watch?v=d1Gd-MGaleE&list=PLUU3EzfPr915ebZONvUVHKm8Bls6D7EgA)
-- [A friendly introduction to NoSQL with Apache Cassandra](https://youtu.be/xQnIN9bW0og)
 - [Learn SQL in 1 Hour - SQL Basics for Beginners](https://youtu.be/9Pzj7Aj25lw)
 - [Quick intro to RDBMS](https://www.youtube.com/watch?v=h8IWmmxIyS0)
 - [Quick Intro to NoSQL databases: Intro to MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
+- [A friendly introduction to NoSQL with Apache Cassandra](https://youtu.be/xQnIN9bW0og)
 
 
 # Examples:
