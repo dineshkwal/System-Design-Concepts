@@ -25,7 +25,6 @@ Unsorted list:
 
 - https://intellipaat.com/blog/tutorial/sql-tutorial/rdbms/
 - https://learning.oreilly.com/videos/database-fundamentals-livelessons/9780136617105
-- [What is NoSQL database](https://youtu.be/AWEUeucIiWA)
 
 
 
