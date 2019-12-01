@@ -8,6 +8,7 @@
 - [Quick intro to RDBMS](https://www.youtube.com/watch?v=h8IWmmxIyS0)
 - [Quick Intro to NoSQL databases: Intro to MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
 - [A friendly introduction to NoSQL with Apache Cassandra](https://youtu.be/xQnIN9bW0og)
+- [System design series](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 
 # Examples:
