@@ -23,8 +23,5 @@ Unsorted list:
 - https://learning.oreilly.com/videos/the-distributed-systems/9781491968383
 - https://learning.oreilly.com/videos/basic-relational-database/9781838557201
 
-- https://intellipaat.com/blog/tutorial/sql-tutorial/rdbms/
-- https://learning.oreilly.com/videos/database-fundamentals-livelessons/9780136617105
-
 
 
