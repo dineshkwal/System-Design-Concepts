@@ -7,6 +7,8 @@
 - [What is NoSQL database](https://youtu.be/AWEUeucIiWA)
 - [A friendly introduction to NoSQL with Apache Cassandra](https://youtu.be/xQnIN9bW0og)
 - [Learn SQL in 1 Hour - SQL Basics for Beginners](https://youtu.be/9Pzj7Aj25lw)
+- [Quick intro to RDBMS](https://www.youtube.com/watch?v=h8IWmmxIyS0)
+- [Quick Intro to NoSQL databases: Intro to MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
 
 
 # Examples:
@@ -21,9 +23,9 @@ Unsorted list:
 - https://learning.oreilly.com/videos/distributed-systems-in/9781491924914
 - https://learning.oreilly.com/videos/the-distributed-systems/9781491968383
 - https://learning.oreilly.com/videos/basic-relational-database/9781838557201
-- [Quick intro to RDBMS](https://www.youtube.com/watch?v=h8IWmmxIyS0)
+
 - https://intellipaat.com/blog/tutorial/sql-tutorial/rdbms/
 - https://learning.oreilly.com/videos/database-fundamentals-livelessons/9780136617105
-- [Learning SQL](https://learning.oreilly.com/videos/learning-sql/9781771372237)
+
 
 
