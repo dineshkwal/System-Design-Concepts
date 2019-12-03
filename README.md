@@ -1,4 +1,5 @@
 # System Design Concepts
+- [MUST WATCH - How to start with distributed systems? The basics of software engineering at scale](https://youtu.be/SqcXvc3ZmRU)
 - [Google File System - Paper that inspired Hadoop](https://youtu.be/eRgFNW4QFDc)
 - [Map Reduce Paper - Distributed data processing](https://www.youtube.com/watch?v=MAJ0aW5g17c)
 - [A great lecture on scalability](https://www.youtube.com/watch?v=-W9F__D3oY4)
