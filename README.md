@@ -16,6 +16,7 @@
 
 # Examples:
 - [Design whatsapp/chat application](https://youtu.be/L7LtmfFYjc4)
+- [Design TinyURL](https://youtu.be/JQDHz72OA3c)
 
 # Object oriented designs:
 - [Design chess game](https://www.geeksforgeeks.org/design-a-chess-game/)
