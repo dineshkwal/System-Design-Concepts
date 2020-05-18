@@ -14,6 +14,7 @@
 - [System design series](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [https://leetcode.com/discuss/general-discussion/125038/system-design-interview-prep](https://leetcode.com/discuss/general-discussion/125038/system-design-interview-prep)
 - [https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design](https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design)
+- [System design primer](https://github.com/donnemartin/system-design-primer)
 
 # Examples:
 - [Design whatsapp/chat application](https://youtu.be/L7LtmfFYjc4)
