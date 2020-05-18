@@ -12,7 +12,8 @@
 - [Quick Intro to NoSQL databases: Intro to MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
 - [A friendly introduction to NoSQL with Apache Cassandra](https://youtu.be/xQnIN9bW0og)
 - [System design series](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-
+- [https://leetcode.com/discuss/general-discussion/125038/system-design-interview-prep](https://leetcode.com/discuss/general-discussion/125038/system-design-interview-prep)
+- [https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design](https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design)
 
 # Examples:
 - [Design whatsapp/chat application](https://youtu.be/L7LtmfFYjc4)
