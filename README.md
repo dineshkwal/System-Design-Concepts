@@ -10,6 +10,7 @@
 - [Learn SQL in 1 Hour - SQL Basics for Beginners](https://youtu.be/9Pzj7Aj25lw)
 - [Quick intro to RDBMS](https://www.youtube.com/watch?v=h8IWmmxIyS0)
 - [Quick Intro to NoSQL databases: Intro to MongoDB](https://www.youtube.com/watch?v=bKjH8WhSu_E)
+- [SQL vs NoSQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 - [A friendly introduction to NoSQL with Apache Cassandra](https://youtu.be/xQnIN9bW0og)
 - [System design series](https://www.youtube.com/watch?v=quLrc3PbuIw&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [https://leetcode.com/discuss/general-discussion/125038/system-design-interview-prep](https://leetcode.com/discuss/general-discussion/125038/system-design-interview-prep)
